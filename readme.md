@@ -1,10 +1,10 @@
-## Windowsの再インストール
+## windows8.1再インストール後の開発環境セットアップ
 
-## 手動設定
+### chocoratey
 
-## git
+[Windows8.1で始めるイマドキの開発環境](http://qiita.com/koduki/items/a833d22c7d8cf6f8f55e)
 
-[SSHも罠がいっぱい](http://qiita.com/koduki/items/a833d22c7d8cf6f8f55e)
+`cinst packages.config -y`
 
 ### sublime text3
 
@@ -16,9 +16,9 @@
 
 ### ruby
 
-`gem install pry`
-
 [windowsでgem installするとSSLエラー](http://qiita.com/shimoju/items/394818b4989b94680aaf)
+
+`gem install pry`
 
 ### node.js
 
