@@ -27,3 +27,5 @@
 `npm install koko -g`
 
 node_modules\koko\index.jsの133行目のopenをstartに変更すると、windowsでも-oオプションによるブラウザ起動ができる。
+
+- chocolateyのnpmは後方互換性のための古いバージョンなので使ってはいけない
