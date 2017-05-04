@@ -28,3 +28,19 @@ Go言語の初心者が見ると幸せになれる場所
 
 サンプル2（ネットワーク処理）
 [https://github.com/tamura2004/speedtest_go](https://github.com/tamura2004/speedtest_go)
+
+### ruby言語チュートリアル
+
+20分で始めるruby
+[https://www.ruby-lang.org/ja/documentation/quickstart/](https://www.ruby-lang.org/ja/documentation/quickstart/)
+
+code school ブラウザで始めるチュートリアル
+[http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challenges/0)
+
+
+### プログラミング学習サイト
+
+progate [https://prog-8.com](https://prog-8.com)
+paiza [https://paiza.jp/](https://paiza.jp/)
+
+【エンジニアが教える】プログラミング入門におすすめ無料学習サイト10選[https://tech-camp.in/note/231/](https://tech-camp.in/note/231/)
